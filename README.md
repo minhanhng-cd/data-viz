@@ -11,5 +11,3 @@ The most famous library to visualize data in Python is **Matplotlib**. **Matplot
 In this session, we will be learning two different styles of creating plots with **Matplotlib** with the developer interview data.
 
 Please refer to [Matplotlib Documentation](https://matplotlib.org/3.1.1/contents.html) for more details.
-
-<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1j8BFO42T7CP63Pabo-oUaxSepa7gpSBC/page/XS4k" frameborder="0" style="border:0" allowfullscreen></iframe>
